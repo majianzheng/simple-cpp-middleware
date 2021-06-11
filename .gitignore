@@ -1,0 +1,9 @@
+.DS_Store
+.mvn
+*.iml
+.idea
+.vscode
+target
+build
+*.lock
+*.log
